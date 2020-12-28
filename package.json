@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@dennisameling/sharp-arm64-win-temp": "^0.27.0-alpha3"
+    "@dennisameling/sharp-arm64-win-temp": "^0.27.0-alpha4"
   },
   "devDependencies": {},
   "repository": {
